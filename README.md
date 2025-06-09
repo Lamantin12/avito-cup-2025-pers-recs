@@ -70,6 +70,7 @@
 2) LAE https://arxiv.org/pdf/1905.03375
 3) Рекомендации Авито:
 ![alt text](./imgs/image.png)
+4) https://habr.com/ru/articles/728802/
 
 
 ## ИТОГ:
